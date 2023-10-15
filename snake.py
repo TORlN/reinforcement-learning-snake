@@ -10,7 +10,7 @@ black = (0, 0, 0)
 class Snake:
     def __init__(self):
         self.reset()
-    
+        
     def reset(self):
         self.segments = [[200,200], [200,210], [200,220]]
         self.direction = 'RIGHT'

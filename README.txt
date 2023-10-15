@@ -1,0 +1,1 @@
+simply run main.py to play
